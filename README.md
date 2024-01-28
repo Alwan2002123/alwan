@@ -3,15 +3,8 @@
 
 Selamat datang di repositori untuk proyek Analisis Sentimen Pariwisata di Gorontalo! Proyek ini menggunakan metode Recurrent Neural Network (RNN) untuk menganalisis opini dan sentimen terkait tempat wisata di Gorontalo berdasarkan ulasan online.
 
-## Struktur Repositori
-
-- 📁 `src/`: Direktori ini berisi kode sumber untuk implementasi RNN dalam analisis sentimen.
-  - 📄 `main.py`: File utama yang menjalankan analisis sentimen.
-  - 📄 `preprocessing.py`: File untuk pra-pemrosesan data teks.
-  - ...
-
 - 📁 `data/`: Direktori ini berisi dataset atau data yang digunakan untuk pelatihan dan pengujian.
-  - 📄 `reviews.csv`: Dataset ulasan wisata di Gorontalo.
+  - `reviews.csv`: Dataset ulasan wisata di Gorontalo.
   - ...
 
 - 📁 `docs/`: Direktori ini berisi dokumentasi proyek.
